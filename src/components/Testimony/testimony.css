@@ -1,0 +1,36 @@
+.testimony-div {
+    margin: 2.5vh 0;
+    display: flex;
+    background: white;
+    width: 80vw;
+    box-shadow: 0 3px 13px 1px rgb(0, 0, 0 / 15%);
+}
+
+.testimony-img {
+    height: 100%;
+    width: auto;
+}
+
+.testimony-text-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.testimony-name {
+    font-size: 1.3rem;
+}
+
+.testimony-tittle {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.testimony-content {
+    font-size: 1.1rem;
+    text-align: justify;
+    padding: 0 25px;
+}
